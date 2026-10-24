@@ -1,0 +1,42 @@
+{
+  "model_name": "SkyShield IBTrACS-Trained GBDT Cyclogenesis Regressor",
+  "training_dataset": "NOAA IBTrACS v04r01 (North Indian Ocean Basin)",
+  "sample_count_tracks": 5,
+  "split_method": "Time-based partition (train <= 2020, test 2021-2024)",
+  "lead_time": "24 hours",
+  "metrics": {
+    "skyshield_position_mae_km": 257.2,
+    "persistence_position_mae_km": 274.0,
+    "position_error_reduction_pct": 6.1,
+    "skyshield_intensity_mae_kts": 32.5,
+    "persistence_intensity_mae_kts": 19.2,
+    "intensity_error_reduction_pct": -69.3
+  },
+  "feature_importances": [
+    {
+      "feature": "Central Pressure (hPa)",
+      "importance_pct": 32.4
+    },
+    {
+      "feature": "Translational Velocity Vector (speed/heading)",
+      "importance_pct": 27.6
+    },
+    {
+      "feature": "Initial Maximum Sustained Wind (kts)",
+      "importance_pct": 21.8
+    },
+    {
+      "feature": "Latitude (Beta-drift & Coriolis)",
+      "importance_pct": 11.2
+    },
+    {
+      "feature": "Longitude (Land proximity boundary)",
+      "importance_pct": 7.0
+    }
+  ],
+  "limitations": [
+    "Cannot resolve rapid eyewall replacement cycles (ERC) occurring on sub-6h timescales.",
+    "Subject to higher track uncertainty when recurving near the Myanmar / Arakan coast.",
+    "Requires real-time SST and vertical shear context to constrain rapid intensification (RI)."
+  ]
+}

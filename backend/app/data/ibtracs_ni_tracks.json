@@ -1,0 +1,345 @@
+[
+  {
+    "sid": "2019117N03088",
+    "name": "FANI",
+    "season": 2019,
+    "basin": "Bay of Bengal",
+    "nature": "Tropical Cyclone",
+    "peak_wind_kts": 115,
+    "peak_wind_kmh": 215,
+    "min_pres_hpa": 932,
+    "landfall_sector": "Puri, Odisha",
+    "landfall_time": "2019-05-03 08:30 UTC",
+    "track": [
+      {
+        "time": "2019-04-27 06:00",
+        "lat": 5.2,
+        "lon": 88.5,
+        "wind_kts": 28,
+        "pres": 1004
+      },
+      {
+        "time": "2019-04-28 00:00",
+        "lat": 6.8,
+        "lon": 87.8,
+        "wind_kts": 35,
+        "pres": 1000
+      },
+      {
+        "time": "2019-04-29 06:00",
+        "lat": 8.7,
+        "lon": 86.9,
+        "wind_kts": 50,
+        "pres": 992
+      },
+      {
+        "time": "2019-04-30 00:00",
+        "lat": 10.4,
+        "lon": 85.5,
+        "wind_kts": 75,
+        "pres": 978
+      },
+      {
+        "time": "2019-05-01 06:00",
+        "lat": 14.1,
+        "lon": 83.9,
+        "wind_kts": 95,
+        "pres": 962
+      },
+      {
+        "time": "2019-05-02 00:00",
+        "lat": 16.0,
+        "lon": 84.4,
+        "wind_kts": 110,
+        "pres": 940
+      },
+      {
+        "time": "2019-05-02 12:00",
+        "lat": 17.5,
+        "lon": 84.8,
+        "wind_kts": 115,
+        "pres": 932
+      },
+      {
+        "time": "2019-05-03 06:00",
+        "lat": 19.8,
+        "lon": 85.8,
+        "wind_kts": 100,
+        "pres": 950
+      },
+      {
+        "time": "2019-05-04 00:00",
+        "lat": 22.0,
+        "lon": 87.5,
+        "wind_kts": 50,
+        "pres": 986
+      }
+    ]
+  },
+  {
+    "sid": "2020137N10086",
+    "name": "AMPHAN",
+    "season": 2020,
+    "basin": "Bay of Bengal",
+    "nature": "Super Cyclonic Storm",
+    "peak_wind_kts": 140,
+    "peak_wind_kmh": 260,
+    "min_pres_hpa": 920,
+    "landfall_sector": "Bakkhali / Sundarbans, West Bengal",
+    "landfall_time": "2020-05-20 14:30 UTC",
+    "track": [
+      {
+        "time": "2020-05-16 06:00",
+        "lat": 10.7,
+        "lon": 86.4,
+        "wind_kts": 40,
+        "pres": 998
+      },
+      {
+        "time": "2020-05-17 00:00",
+        "lat": 11.5,
+        "lon": 86.1,
+        "wind_kts": 60,
+        "pres": 986
+      },
+      {
+        "time": "2020-05-17 18:00",
+        "lat": 12.5,
+        "lon": 86.4,
+        "wind_kts": 85,
+        "pres": 968
+      },
+      {
+        "time": "2020-05-18 06:00",
+        "lat": 13.2,
+        "lon": 86.3,
+        "wind_kts": 120,
+        "pres": 940
+      },
+      {
+        "time": "2020-05-18 18:00",
+        "lat": 13.7,
+        "lon": 86.2,
+        "wind_kts": 140,
+        "pres": 920
+      },
+      {
+        "time": "2020-05-19 12:00",
+        "lat": 16.5,
+        "lon": 86.8,
+        "wind_kts": 115,
+        "pres": 942
+      },
+      {
+        "time": "2020-05-20 06:00",
+        "lat": 19.8,
+        "lon": 87.6,
+        "wind_kts": 95,
+        "pres": 958
+      },
+      {
+        "time": "2020-05-20 12:00",
+        "lat": 21.6,
+        "lon": 88.3,
+        "wind_kts": 85,
+        "pres": 968
+      },
+      {
+        "time": "2020-05-21 00:00",
+        "lat": 24.1,
+        "lon": 89.2,
+        "wind_kts": 40,
+        "pres": 992
+      }
+    ]
+  },
+  {
+    "sid": "2023157N11066",
+    "name": "BIPARJOY",
+    "season": 2023,
+    "basin": "Arabian Sea",
+    "nature": "Extremely Severe Cyclonic Storm",
+    "peak_wind_kts": 90,
+    "peak_wind_kmh": 165,
+    "min_pres_hpa": 958,
+    "landfall_sector": "Jakhau Port, Kutch, Gujarat",
+    "landfall_time": "2023-06-15 17:30 UTC",
+    "track": [
+      {
+        "time": "2023-06-06 06:00",
+        "lat": 12.1,
+        "lon": 66.0,
+        "wind_kts": 35,
+        "pres": 998
+      },
+      {
+        "time": "2023-06-07 12:00",
+        "lat": 13.2,
+        "lon": 66.2,
+        "wind_kts": 55,
+        "pres": 988
+      },
+      {
+        "time": "2023-06-08 12:00",
+        "lat": 14.5,
+        "lon": 66.2,
+        "wind_kts": 70,
+        "pres": 976
+      },
+      {
+        "time": "2023-06-10 06:00",
+        "lat": 16.8,
+        "lon": 67.4,
+        "wind_kts": 85,
+        "pres": 964
+      },
+      {
+        "time": "2023-06-11 06:00",
+        "lat": 18.2,
+        "lon": 67.8,
+        "wind_kts": 90,
+        "pres": 958
+      },
+      {
+        "time": "2023-06-13 18:00",
+        "lat": 20.9,
+        "lon": 67.2,
+        "wind_kts": 80,
+        "pres": 966
+      },
+      {
+        "time": "2023-06-14 12:00",
+        "lat": 21.9,
+        "lon": 66.7,
+        "wind_kts": 75,
+        "pres": 972
+      },
+      {
+        "time": "2023-06-15 18:00",
+        "lat": 23.2,
+        "lon": 68.6,
+        "wind_kts": 65,
+        "pres": 980
+      },
+      {
+        "time": "2023-06-16 12:00",
+        "lat": 24.5,
+        "lon": 70.8,
+        "wind_kts": 35,
+        "pres": 992
+      }
+    ]
+  },
+  {
+    "sid": "2023336N09087",
+    "name": "MICHAUNG",
+    "season": 2023,
+    "basin": "Bay of Bengal",
+    "nature": "Severe Cyclonic Storm",
+    "peak_wind_kts": 60,
+    "peak_wind_kmh": 110,
+    "min_pres_hpa": 986,
+    "landfall_sector": "Bapatla, Andhra Pradesh",
+    "landfall_time": "2023-12-05 07:30 UTC",
+    "track": [
+      {
+        "time": "2023-12-02 06:00",
+        "lat": 10.2,
+        "lon": 85.5,
+        "wind_kts": 30,
+        "pres": 1002
+      },
+      {
+        "time": "2023-12-03 00:00",
+        "lat": 11.8,
+        "lon": 83.8,
+        "wind_kts": 40,
+        "pres": 998
+      },
+      {
+        "time": "2023-12-03 18:00",
+        "lat": 12.8,
+        "lon": 82.4,
+        "wind_kts": 50,
+        "pres": 992
+      },
+      {
+        "time": "2023-12-04 12:00",
+        "lat": 14.1,
+        "lon": 80.6,
+        "wind_kts": 60,
+        "pres": 986
+      },
+      {
+        "time": "2023-12-05 06:00",
+        "lat": 15.6,
+        "lon": 80.3,
+        "wind_kts": 55,
+        "pres": 988
+      },
+      {
+        "time": "2023-12-05 18:00",
+        "lat": 17.2,
+        "lon": 81.2,
+        "wind_kts": 35,
+        "pres": 998
+      }
+    ]
+  },
+  {
+    "sid": "2024296N15089",
+    "name": "DANA",
+    "season": 2024,
+    "basin": "Bay of Bengal",
+    "nature": "Severe Cyclonic Storm",
+    "peak_wind_kts": 65,
+    "peak_wind_kmh": 120,
+    "min_pres_hpa": 982,
+    "landfall_sector": "Dhamra / Habalikhati, Odisha",
+    "landfall_time": "2024-10-25 01:00 UTC",
+    "track": [
+      {
+        "time": "2024-10-22 06:00",
+        "lat": 14.2,
+        "lon": 89.8,
+        "wind_kts": 30,
+        "pres": 1002
+      },
+      {
+        "time": "2024-10-23 00:00",
+        "lat": 15.6,
+        "lon": 88.5,
+        "wind_kts": 45,
+        "pres": 996
+      },
+      {
+        "time": "2024-10-23 18:00",
+        "lat": 17.2,
+        "lon": 87.2,
+        "wind_kts": 55,
+        "pres": 990
+      },
+      {
+        "time": "2024-10-24 12:00",
+        "lat": 19.4,
+        "lon": 87.5,
+        "wind_kts": 65,
+        "pres": 982
+      },
+      {
+        "time": "2024-10-25 00:00",
+        "lat": 20.8,
+        "lon": 86.9,
+        "wind_kts": 60,
+        "pres": 986
+      },
+      {
+        "time": "2024-10-25 12:00",
+        "lat": 21.4,
+        "lon": 86.1,
+        "wind_kts": 35,
+        "pres": 996
+      }
+    ]
+  }
+]
